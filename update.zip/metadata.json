@@ -1,0 +1,6 @@
+{
+  "name": "AI Kod Bölücü V7PRO",
+  "description": "Production Engine with Self-Fix Mode. Kodlarınızı hatasız şekilde bölerek profesyonel ZIP paketleri üretir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
